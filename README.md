@@ -1,3 +1,3 @@
 # opinion-Mining
-analysis public opinion
-From twitter data
+analyze public opinion
+From twitter live data
